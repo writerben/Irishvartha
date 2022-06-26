@@ -34,9 +34,9 @@ export default {
       title: `Home | ${this.$siteConfig.siteName}`
     }
   },
-  components: {
-    NewsLetterFormModal
-  },
+  //components: {
+   // NewsLetterFormModal
+ // },
   computed: {
     ...mapState(['title', 'subtitle', 'featureImage'])
   },
