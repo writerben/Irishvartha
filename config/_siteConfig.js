@@ -63,10 +63,10 @@ export default {
     loadingStrategy: 'button', // Options: onload, lazy, button
     siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
   },
-/**
+  
   // Newsletter Subscribe
   newsletter: {
-    on: true,
+    off: true,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
@@ -81,8 +81,6 @@ export default {
       formAction: ''
     }
   },
-  
-   */
 
   // Categories
   categories: {
