@@ -63,7 +63,7 @@ export default {
     loadingStrategy: 'button', // Options: onload, lazy, button
     siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
   },
-
+/**
   // Newsletter Subscribe
   newsletter: {
     on: true,
@@ -81,6 +81,8 @@ export default {
       formAction: ''
     }
   },
+  
+   */
 
   // Categories
   categories: {
