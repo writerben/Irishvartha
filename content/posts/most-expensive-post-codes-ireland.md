@@ -1,5 +1,6 @@
 ---
-title: Most Expensive Post Codes, Ireland
+title: അയർലൻഡിൽ വീട് വാങ്ങുവാൻ ഏറ്റവും ചെലവേറിയ പോസ്റ്റ് കോഡ് എവിടെ? ഏറ്റവും
+  കുറഞ്ഞതും!
 subtitle: ഭവന വിലയിൽ ഏറ്റവും ചിലവേറിയതും കുറഞ്ഞതുമായ സ്ഥലങ്ങൾ
 category:
   - Ireland News
