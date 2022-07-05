@@ -5,7 +5,7 @@ category:
   - Ireland News
 author: സ്വന്തം ലേഖകൻ
 date: 2022-07-05T12:00:53.067Z
-featureImage: /uploads/metrolink.webp
+featureImage: /uploads/siemens-piccadilly-line-exterior-02.jpg
 ---
 ഡബ്ലിൻ : സർക്കാർ പുറത്തിറക്കിയ പുതിയ മെട്രോലിങ്ക്  പ്ലാൻ പ്രകാരം തിരക്കേറിയ സമയങ്ങളിൽ എല്ലാ 3 മിനിറ്റിലും ട്രെയിൻ സർവീസ്.
 
