@@ -1,5 +1,5 @@
 ---
-title: An Bord Pleanála's deputy chair resigns
+title: ആൻ  ബോർഡ് പ്ലീനാലയുടെ ഡെപ്യൂട്ടി ചെയർ രാജിവെച്ചു
 subtitle: The Department of Housing has confirmed that the deputy chair of An
   Bord Pleanála, Paul Hyde, has resigned.
 category:
