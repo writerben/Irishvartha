@@ -1,7 +1,6 @@
 ---
 title: ആൻ  ബോർഡ് പ്ലീനാലയുടെ ഡെപ്യൂട്ടി ചെയർ രാജിവെച്ചു
-subtitle: The Department of Housing has confirmed that the deputy chair of An
-  Bord Pleanála, Paul Hyde, has resigned.
+subtitle: പദവി സ്വന്ത താൽപര്യങ്ങൾക്കു ഉപയോഗിച്ചെന്ന് ആരോപണം.
 category:
   - Ireland News
 author: സ്വന്തം ലേഖകൻ
